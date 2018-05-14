@@ -1,0 +1,767 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/luiz/intelFPGA/17.1/modelsim_ase/linuxaloem
+Ebox
+Z0 w1520291575
+Z1 d/home/luiz/Documents/Projects/Circuitos Digitais/Lab1
+Z2 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/box.vhd
+Z3 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/box.vhd
+l0
+L4
+VVVQI_enYQ<dWB6BNWSzen3
+!s100 Fia8K;_M4ETBZNn[PHm]X3
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1520291582
+!i10b 1
+Z6 !s108 1520291582.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/box.vhd|
+Z8 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/box.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Aex1a
+DEx4 work 3 box 0 22 VVQI_enYQ<dWB6BNWSzen3
+l15
+L12
+VNL>E89b7UIQDCgCk04bin0
+!s100 c88oNA:Sebj93V4jCBkR82
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
+Ecircuito
+Z11 w1524631620
+R1
+Z12 8/home/luiz/Music/vhdl9/vhdl9.vhd
+Z13 F/home/luiz/Music/vhdl9/vhdl9.vhd
+l0
+L1
+VC;URaCIIB31i1QTJ0XXmm1
+!s100 R5;<hT`B8I1SDnU;@SEhn1
+R4
+32
+Z14 !s110 1525127107
+!i10b 1
+Z15 !s108 1525127107.000000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Music/vhdl9/vhdl9.vhd|
+Z17 !s107 /home/luiz/Music/vhdl9/vhdl9.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 8 circuito 0 22 C;URaCIIB31i1QTJ0XXmm1
+l16
+L6
+V8ebOWUV>2Z_TNXnhINDBG1
+!s100 XZd@017c>2cPA;:6NGD_01
+R4
+32
+R14
+!i10b 1
+R15
+R16
+R17
+!i113 1
+R9
+R10
+Ecircuitox
+Z18 w1522714769
+R1
+Z19 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuitox.vhd
+Z20 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuitox.vhd
+l0
+L4
+V;2Unaod?W2g^>fjUAXLLE1
+!s100 cAOJ[[TlzmGYU`CQBXmeM0
+R4
+32
+Z21 !s110 1522716913
+!i10b 1
+Z22 !s108 1522716913.000000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuitox.vhd|
+Z24 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuitox.vhd|
+!i113 1
+R9
+R10
+Ackt3
+DEx4 work 9 circuitox 0 22 ;2Unaod?W2g^>fjUAXLLE1
+l26
+L15
+VozzMT`HndVSBKV=J<MA;:2
+!s100 TeHBXMgm@of:PGg1;0HBm2
+R4
+32
+R21
+!i10b 1
+R22
+R23
+R24
+!i113 1
+R9
+R10
+Ecircuitoy
+Z25 w1522716793
+R1
+Z26 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuito.vhd
+Z27 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuito.vhd
+l0
+L4
+VN2fP489i5Sd2fFJ9Ag:::1
+!s100 b^Jz3_nCBD9K[MZMkfTcI0
+R4
+32
+R21
+!i10b 1
+R22
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuito.vhd|
+Z29 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab6/circuito.vhd|
+!i113 1
+R9
+R10
+Ackt2
+DEx4 work 9 circuitoy 0 22 N2fP489i5Sd2fFJ9Ag:::1
+l28
+L17
+VmCbe^]2kBl4jZ0=6m=cF:1
+!s100 CcO9K6JBebHaza]0VMGD`0
+R4
+32
+R21
+!i10b 1
+R22
+R28
+R29
+!i113 1
+R9
+R10
+Econtador_updown
+Z30 w1523920851
+R1
+Z31 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab7/contadorUD.vhd
+Z32 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab7/contadorUD.vhd
+l0
+L1
+VHVBIT=ZX<n3j1:H>3njV73
+!s100 :G6a8<Dn4113E?fWB_dPI1
+R4
+32
+Z33 !s110 1524524100
+!i10b 1
+Z34 !s108 1524524100.000000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab7/contadorUD.vhd|
+Z36 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab7/contadorUD.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 15 contador_updown 0 22 HVBIT=ZX<n3j1:H>3njV73
+l23
+L9
+VCl`Zld[dYnle=Pz:aO[Oa3
+!s100 fCmC]5P9?hTeULG_7AD=:0
+R4
+32
+R33
+!i10b 1
+R34
+R35
+R36
+!i113 1
+R9
+R10
+Eex1
+Z37 w1519340979
+R1
+Z38 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/test.vhd
+Z39 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/test.vhd
+l0
+L1
+VLSEjNN2ZZ_cZo36oO]E`V2
+!s100 SHY17SnDd[]H526O]@[Ij1
+R4
+32
+Z40 !s110 1519390200
+!i10b 1
+Z41 !s108 1519390199.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/test.vhd|
+Z43 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/test.vhd|
+!i113 1
+R9
+R10
+Aex1a
+DEx4 work 3 ex1 0 22 LSEjNN2ZZ_cZo36oO]E`V2
+l12
+L11
+VlJfkFPX0mf4;EhLEbI7h73
+!s100 K@]?7JMO_bg5SzSgiKWNo1
+R4
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R9
+R10
+Eex2
+Z44 w1520193428
+R1
+Z45 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab2.vhd
+Z46 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab2.vhd
+l0
+L4
+V<@DULcd<I@m3`bga9NF]90
+!s100 hiK=_O8L?AUhYP=RB3KGB2
+R4
+32
+Z47 !s110 1520287928
+!i10b 1
+Z48 !s108 1520287928.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab2.vhd|
+Z50 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab2.vhd|
+!i113 1
+R9
+R10
+Aex1a
+DEx4 work 3 ex2 0 22 <@DULcd<I@m3`bga9NF]90
+l16
+L12
+Vf5ioOkAb_bH]]0fcei<B30
+!s100 6FREX@0zD?e]Uz`mNlK=F0
+R4
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R9
+R10
+Effd
+Z51 w1525650506
+R1
+Z52 8/home/luiz/Videos/Vhdl/FlipFlopD.vhd
+Z53 F/home/luiz/Videos/Vhdl/FlipFlopD.vhd
+l0
+L1
+VA6RG3c3oZQH=Y2jmREF3^1
+!s100 n_mfWBIWfGQ[_cC^G;OR70
+R4
+32
+Z54 !s110 1525735332
+!i10b 1
+Z55 !s108 1525735332.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Videos/Vhdl/FlipFlopD.vhd|
+Z57 !s107 /home/luiz/Videos/Vhdl/FlipFlopD.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 3 ffd 0 22 A6RG3c3oZQH=Y2jmREF3^1
+l8
+L6
+V17GS>PXn;FmOaXP=?6<IG1
+!s100 4o2TXNX0XV[5V[J=J1R_22
+R4
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R9
+R10
+Effjk
+Z58 w1525113224
+R1
+Z59 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/FFJK.vhd
+Z60 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/FFJK.vhd
+l0
+L1
+VAkQaZ1ehB<4E@Cl1eaQE61
+!s100 Oidg=2ZK8efHL3dD_J`5o3
+R4
+32
+Z61 !s110 1525126161
+!i10b 1
+Z62 !s108 1525126161.000000
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/FFJK.vhd|
+Z64 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/FFJK.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 4 ffjk 0 22 AkQaZ1ehB<4E@Cl1eaQE61
+l8
+L6
+V[WafGlnR?nhWaOkYYRT]30
+!s100 2jJHNnLGz57:UFk?WgFE@3
+R4
+32
+R61
+!i10b 1
+R62
+R63
+R64
+!i113 1
+R9
+R10
+Elab2
+Z65 w1520287891
+R1
+Z66 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhdl2.vhd
+Z67 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhdl2.vhd
+l0
+L1
+Vf?z^PhDY5E;n?@A9E>XcQ1
+!s100 U3:5:Vc8ORSM:4Pzb_Ffn2
+R4
+32
+Z68 !s110 1520290622
+!i10b 1
+Z69 !s108 1520290622.000000
+Z70 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhdl2.vhd|
+Z71 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhdl2.vhd|
+!i113 1
+R9
+R10
+Acircuit
+DEx4 work 4 lab2 0 22 f?z^PhDY5E;n?@A9E>XcQ1
+l7
+L6
+VdWe@`?goX[JO8nZZfkU^[2
+!s100 XnGIo6mlDfT4N3hneK[:@1
+R4
+32
+R68
+!i10b 1
+R69
+R70
+R71
+!i113 1
+R9
+R10
+Emain
+Z72 w1524531352
+R1
+Z73 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab9/main.vhd
+Z74 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab9/main.vhd
+l0
+L1
+VV1mT]b:8Xh0oQ>UPNjB633
+!s100 H7OXko`FJJBTg4VMaZzRe3
+R4
+32
+Z75 !s110 1525125940
+!i10b 1
+Z76 !s108 1525125940.000000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab9/main.vhd|
+Z78 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab9/main.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 4 main 0 22 V1mT]b:8Xh0oQ>UPNjB633
+l19
+L6
+VFeLSEQ`UG3fC=km:<n7[D1
+!s100 kDKKdJKeK>?6BkDGPVcF13
+R4
+32
+R75
+!i10b 1
+R76
+R77
+R78
+!i113 1
+R9
+R10
+Afelipe
+DEx4 work 4 main 0 22 ;3h8zOeXzM15cnhOE5jVi2
+l43
+L18
+VAXC:UmYzBIOkdBWBW_P073
+!s100 j;;GTIofACWNCH<PK?G;?1
+R4
+32
+Z79 !s110 1522106788
+!i10b 1
+Z80 !s108 1522106788.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/main.vhd|
+!s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/main.vhd|
+!i113 1
+R9
+R10
+F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/main.vhd
+w1521988921
+8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/main.vhd
+Aex1a
+DEx4 work 4 main 0 22 JZ;NN^X?kGnMkY0C1C6z10
+l24
+L12
+Vf?ZTN[<84X;5XMzCk?9a93
+!s100 h4^AP>2TQP:GZ<_9SOLGU1
+R4
+32
+!s110 1520293138
+!i10b 1
+!s108 1520293138.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab3.vhd|
+!s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab3.vhd|
+!i113 1
+R9
+R10
+F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab3.vhd
+w1520293134
+8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/lab3.vhd
+Emealy
+R58
+R1
+Z81 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/mealy.vhd
+Z82 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/mealy.vhd
+l0
+L2
+Vob^][_Q8=B@=JDJ`m3;790
+!s100 =n1zZiTj77[6KKVZiWNm40
+R4
+32
+R61
+!i10b 1
+R62
+Z83 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/mealy.vhd|
+Z84 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/vhd9/mealy.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 5 mealy 0 22 ob^][_Q8=B@=JDJ`m3;790
+l20
+L9
+Vk5A:hGDfR<3;=h:SfXfUE2
+!s100 7aV^NOk8XKC31^Ac;6BTh0
+R4
+32
+R61
+!i10b 1
+R62
+R83
+R84
+!i113 1
+R9
+R10
+Emulti
+Z85 w1521506605
+R1
+Z86 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/multi.vhd
+Z87 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/multi.vhd
+l0
+L4
+V5AZJIW8a;mPUUPlo^Hinm1
+!s100 G21NWK5eZZ_IKg2cnJPNa2
+R4
+32
+R79
+!i10b 1
+R80
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/multi.vhd|
+Z89 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/multi.vhd|
+!i113 1
+R9
+R10
+Avira2
+DEx4 work 5 multi 0 22 5AZJIW8a;mPUUPlo^Hinm1
+l31
+L16
+V9Xc0QDbjM=eN6I=X5XhiE3
+!s100 ]b>iRP7eLKEG_PH3>Y[G81
+R4
+32
+R79
+!i10b 1
+R80
+R88
+R89
+!i113 1
+R9
+R10
+Emux
+Z90 w1525634112
+R1
+Z91 8/home/luiz/Videos/Vhdl/Mux.vhd
+Z92 F/home/luiz/Videos/Vhdl/Mux.vhd
+l0
+L1
+Vf3>Jc2b6TT0]mz:oZIaEU2
+!s100 >64Cl0;hS:U>H5B=0DPPl0
+R4
+32
+R54
+!i10b 1
+R55
+Z93 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Videos/Vhdl/Mux.vhd|
+Z94 !s107 /home/luiz/Videos/Vhdl/Mux.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 3 mux 0 22 f3>Jc2b6TT0]mz:oZIaEU2
+l10
+L8
+VNTYFZTE@]@g6@B60gSi0S0
+!s100 1e]@QheaODkTXbO]6n3GN3
+R4
+32
+R54
+!i10b 1
+R55
+R93
+R94
+!i113 1
+R9
+R10
+Aluiz
+DEx4 work 3 mux 0 22 `h:En2TzR4QK<[_7CEHT73
+l14
+L12
+VOEGN0B:T:Q3H@]]K=1bBI2
+!s100 XzAaeHE=dQJ?nF^KXikI62
+R4
+32
+R79
+!i10b 1
+!s108 1522106787.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux.vhd|
+!s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux.vhd|
+!i113 1
+R9
+R10
+F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux.vhd
+w1521500847
+8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux.vhd
+Emux2
+Z95 w1521500835
+R1
+Z96 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux2.vhd
+Z97 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux2.vhd
+l0
+L4
+VOFLD5600CUoQj:Zk9NG3K2
+!s100 Sg2kW@;MXgE=cgP[a;HgT2
+R4
+32
+R79
+!i10b 1
+R80
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux2.vhd|
+Z99 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/mux2.vhd|
+!i113 1
+R9
+R10
+Avira
+DEx4 work 4 mux2 0 22 OFLD5600CUoQj:Zk9NG3K2
+l29
+L17
+V5PGi8XIX3G?dojRlOf7Qm2
+!s100 0zoeYYdo=OJXQmVH^^8UO1
+R4
+32
+R79
+!i10b 1
+R80
+R98
+R99
+!i113 1
+R9
+R10
+Emux3bit
+Z100 w1525637408
+R1
+Z101 8/home/luiz/Videos/Vhdl/Mux-Sel3bit.vhd
+Z102 F/home/luiz/Videos/Vhdl/Mux-Sel3bit.vhd
+l0
+L1
+VhEzXW_VZKi`K[WFXno`T21
+!s100 J8J?]KYKI>l0i8WffzFKA2
+R4
+32
+R54
+!i10b 1
+R55
+Z103 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Videos/Vhdl/Mux-Sel3bit.vhd|
+Z104 !s107 /home/luiz/Videos/Vhdl/Mux-Sel3bit.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 7 mux3bit 0 22 hEzXW_VZKi`K[WFXno`T21
+l8
+L6
+V7f=LT^L7GM3=5^H8^h2oU3
+!s100 5N:iDlj_4e^e<XPiHFliO0
+R4
+32
+R54
+!i10b 1
+R55
+R103
+R104
+!i113 1
+R9
+R10
+Eregis
+Z105 w1525654068
+R1
+Z106 8/home/luiz/Videos/Vhdl/Registrador.vhd
+Z107 F/home/luiz/Videos/Vhdl/Registrador.vhd
+l0
+L1
+VDH[0EM]>3jnTPVQDjdZWz1
+!s100 EK3nOiz^JgQ]Q[]YaHZh52
+R4
+32
+R54
+!i10b 1
+R55
+Z108 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Videos/Vhdl/Registrador.vhd|
+Z109 !s107 /home/luiz/Videos/Vhdl/Registrador.vhd|
+!i113 1
+R9
+R10
+Ackt
+Z110 DEx4 work 5 regis 0 22 DH[0EM]>3jnTPVQDjdZWz1
+l22
+L9
+Z111 V_k9::EB^M0kS9Yg=R4Jd>1
+Z112 !s100 NN1TnhOSn]M4YYgRNo]A:2
+R4
+32
+R54
+!i10b 1
+R55
+R108
+R109
+!i113 1
+R9
+R10
+Esoma4
+Z113 w1520898141
+R1
+Z114 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab4/somador4bit.vhd
+Z115 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab4/somador4bit.vhd
+l0
+L4
+V[9>D01S1dWUo[4f^_IV@03
+!s100 Ud:K>3]klZ;7d]?1@[[5i1
+R4
+32
+Z116 !s110 1520898158
+!i10b 1
+Z117 !s108 1520898158.000000
+Z118 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab4/somador4bit.vhd|
+Z119 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab4/somador4bit.vhd|
+!i113 1
+R9
+R10
+Avira
+DEx4 work 5 soma4 0 22 [9>D01S1dWUo[4f^_IV@03
+l29
+L18
+VAQO>ImzV4zR<XUn<YUP0>1
+!s100 WUDjGN[5nmlGg3>>IFn_11
+R4
+32
+R116
+!i10b 1
+R117
+R118
+R119
+!i113 1
+R9
+R10
+Esomador
+Z120 w1521987838
+R1
+Z121 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/somador.vhd
+Z122 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/somador.vhd
+l0
+L4
+V;I=>hVeNVY>D9h9N@hzJN0
+!s100 VYdL<[9Pdzjha@J^<8oe42
+R4
+32
+R79
+!i10b 1
+R80
+Z123 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/somador.vhd|
+Z124 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab5/somador.vhd|
+!i113 1
+R9
+R10
+Asoma
+DEx4 work 7 somador 0 22 ;I=>hVeNVY>D9h9N@hzJN0
+l13
+L10
+VdS[:NIN355F?bdcceMTc;1
+!s100 ]02:NJ@JJBhmSO3F<hea?3
+R4
+32
+R79
+!i10b 1
+R80
+R123
+R124
+!i113 1
+R9
+R10
+Eupdown
+Z125 w1524512070
+R1
+Z126 8/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab8/updown.vhd
+Z127 F/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab8/updown.vhd
+l0
+L1
+VT2McRJOIZ:UWCUhozO5g52
+!s100 ZMaIOVo]^5M:L;[O_UVfR2
+R4
+32
+Z128 !s110 1525125263
+!i10b 1
+Z129 !s108 1525125262.000000
+Z130 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab8/updown.vhd|
+Z131 !s107 /home/luiz/Documents/Projects/Circuitos Digitais/Lab1/Lab8/updown.vhd|
+!i113 1
+R9
+R10
+Ackt
+DEx4 work 6 updown 0 22 T2McRJOIZ:UWCUhozO5g52
+l18
+L7
+VmI4BijlXB[?jHACUenRo]2
+!s100 1BmID>=c9c=<lzOUSHO5n3
+R4
+32
+R128
+!i10b 1
+R129
+R130
+R131
+!i113 1
+R9
+R10

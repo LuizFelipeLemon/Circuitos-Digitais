@@ -1,0 +1,13 @@
+C:/Users/NAGEM/Desktop/chicobianor/FFJK.vhd {1 {vcom -work work -2002 -explicit C:/Users/NAGEM/Desktop/chicobianor/FFJK.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling entity ffjk
+-- Compiling architecture ckt of ffjk
+
+} {} {}} C:/Users/NAGEM/Desktop/chicobianor/updown.vhd {1 {vcom -work work -2002 -explicit C:/Users/NAGEM/Desktop/chicobianor/updown.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Compiling entity updown
+-- Compiling architecture ckt of updown
+
+} {} {}}

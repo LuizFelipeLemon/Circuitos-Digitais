@@ -1,0 +1,28 @@
+# Loading project Luiz
+vsim Regis
+# vsim Regis 
+# Start time: 20:44:42 on May 07,2018
+# Loading std.standard
+# Loading work.regis(ckt)
+# Loading work.mux3bit(ckt)
+# Loading work.ffd(ckt)
+add wave *
+# ** Error: Unable to lock WLF file "vsim.wlf". Retrying 1 times, errno 11
+# ** Error: Unable to lock WLF file "vsim.wlf". Retrying 2 times, errno 11
+# ** Error: Unable to lock WLF file "vsim.wlf". Retrying 3 times, errno 11
+# ** Error: Cannot lock WLF file: "vsim.wlf"
+#           errno 11: Resource temporarily unavailable.
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: unknown  Hostname: luiz-Inspiron-5448  ProcessID: 22720
+#           Attempting to use alternate WLF file "./wlftEbUiaj".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftEbUiaj
+force clk 0 0, 1 2 -repeat 4
+force Load 1 0, 0 2
+force clk 0 0, 1 2 -repeat 4
+force i "0101"
+force Load 1 0, # End time: 22:13:59 on May 07,2018, Elapsed time: 1:39:57
+# Errors: 1, Warnings: 0
+# FATAL ERROR: Unable to read lock file necessary for use of uncounted nodelocked license. Exiting.
+# End time: 22:13:49 on May 07,2018, Elapsed time: 1:29:07
+# Errors: 4, Warnings: 2

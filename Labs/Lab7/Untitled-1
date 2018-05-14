@@ -1,0 +1,24 @@
+vsim Contador_UpDown
+
+add wave *
+
+force A "0100" 0ns
+
+force clock 0 0ns, 1 5ns -repeat 10 ns
+
+force LD 0 0ns
+force LD 1 5ns
+force LD 0 10ns
+force LD 1 400ns
+force LD 0 405ns
+
+force CLR 1 0ns
+force CLR 0 10ns
+force CLR 1 300ns
+force CLR 0 310ns
+
+force UP_DW 0 0ns
+force UP_DW 1 200ns
+
+
+run 450ns

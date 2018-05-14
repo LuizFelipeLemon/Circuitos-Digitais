@@ -1,0 +1,11 @@
+vsim updown
+add wave *
+
+force clear 0 0ns, 1 60ns, 0 80ns
+force E 0 0ns, 1 10ns
+force clock 0 0ns, 1 5ns -repeat 10ns
+force load 1 0ns, 0 1ns
+force A "0101"
+force B "1100"
+
+run 400ns

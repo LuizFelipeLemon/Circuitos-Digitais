@@ -1,0 +1,82 @@
+entity updown is
+  port(load,clock,E: in bit;
+        A,B: in bit_vector(3 downto 0);
+        W: out bit_vector(3 downto 0));
+end updown;
+
+architecture ckt of updown is
+
+component ffjk is
+  port(clk,J,K,P,C: in bit;
+            q: out bit);
+end component;
+
+signal x,carga,ccarga: bit_vector(3 downto 0);
+signal mux,updm: bit_vector(2 downto 0);
+signal enable: bit;
+
+begin
+enable <= clock and E;
+updm(0) <= not((B(3) xnor  x(3)) and (B(2) xnor x(2)) and (B(1) xnor x(1)) and (B(0) xnor x(0)));
+updm(1) <= not((A(3) xnor  x(3)) and (A(2) xnor x(2)) and (A(1) xnor x(1)) and (A(0) xnor x(0)));
+
+carga(0) <= A(0) nand load;
+carga(1) <= A(1) nand load;
+carga(2) <= A(2) nand load;
+carga(3) <= A(3) nand load;
+
+ccarga(0) <= (carga(0) nand load);
+ccarga(1) <= (carga(1) nand load);
+ccarga(2) <= (carga(2) nand load);
+ccarga(3) <= (carga(3) nand load);
+
+memoria: ffjk port map(
+    clk => enable,
+    J  => '0',
+    K => '0',
+    P => updm(1),
+    C => updm(0),
+    q => updm(2));
+
+mux(0) <= (updm(2) and x(0)) or (not updm(2) and not x(0));
+mux(1) <= (updm(2) and x(0) and x(1)) or (not updm(2) and not x(0) and not x(1));
+mux(2) <= (updm(2) and x(0) and x(1) and x(2)) or (not updm(2) and not x(0) and not x(1) and not x(2));
+
+box0: ffjk port map(
+    clk => enable,
+    J  => '1',
+    K => '1',
+    P => carga(0),
+    C => ccarga(0),
+    q => x(0));
+    
+box1: ffjk port map(
+    clk => enable,
+    J  => mux(0),
+    K => mux(0),
+    P => carga(1),
+    C => ccarga(1),
+    q => x(1));
+
+box2: ffjk port map(
+    clk => enable,
+    J  => mux(1),
+    K => mux(1),
+    P => carga(2),
+    C => ccarga(2),
+    q => x(2));
+     
+box3: ffjk port map(
+    clk => enable,
+    J  => mux(2),
+    K => mux(2),
+    P => carga(3),
+    C => ccarga(3),
+    q => x(3));
+  
+W(3 downto 0) <= x(3 downto 0);
+
+end ckt;
+    
+
+

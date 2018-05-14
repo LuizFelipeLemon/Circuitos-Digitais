@@ -1,0 +1,25 @@
+/home/luiz/Videos/Vhdl/FlipFlopD.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/luiz/Videos/Vhdl/FlipFlopD.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity FFD
+-- Compiling architecture ckt of FFD
+
+} {} {}} /home/luiz/Videos/Vhdl/Mux-Sel3bit.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/luiz/Videos/Vhdl/Mux-Sel3bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity Mux3bit
+-- Compiling architecture ckt of mux3bit
+
+} {} {}} /home/luiz/Videos/Vhdl/Registrador.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/luiz/Videos/Vhdl/Registrador.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity Regis
+-- Compiling architecture ckt of Regis
+
+} {} {}} /home/luiz/Videos/Vhdl/Mux.vhd {1 {vcom -work work -2002 -explicit -stats=none /home/luiz/Videos/Vhdl/Mux.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Compiling entity mux
+-- Compiling architecture ckt of mux
+
+} {} {}}

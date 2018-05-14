@@ -1,0 +1,12 @@
+vsim mealy
+add wave *
+
+force ck 0 0ns, 1 2ns -repeat 4ns
+force S(0) 0 0ns, 1 4ns -repeat 8ns
+force S(1) 0 0ns,1 8ns -repeat 16ns
+force S(2) 0 0ns,1 16ns  -repeat 32ns
+force S(3) 0 0ns,1 32ns -repeat 64ns
+force S(4) 0 0ns,1 128ns -repeat 256ns
+
+
+run 512ns
